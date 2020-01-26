@@ -1,2 +1,2 @@
 # datascidojo
-temporary repo for notebook sharing
+Basic code for datascidojo intern assignment 2
